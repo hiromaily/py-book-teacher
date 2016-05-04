@@ -1,0 +1,10 @@
+.idea/
+book/
+https/
+configs/__pycache__/
+teachers/__pycache__/
+mails/__pycache__/
+data/data.txt
+config.ini
+book2.py
+checkSchedules.py
